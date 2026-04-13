@@ -1,7 +1,7 @@
 /**
  * 
  */
-package za.co.sindi.ai.a2a.examples.rest;
+package za.co.sindi.a2a.examples;
 
 import jakarta.ws.rs.ApplicationPath;
 import jakarta.ws.rs.core.Application;
